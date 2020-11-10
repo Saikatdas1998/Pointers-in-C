@@ -9,7 +9,7 @@ int main()
      int *p=arr;
     //p=&arr; 
     printf("%d\n",arr[0]);   //traditonal method to print the value of array*/
-    Using the terminology of pointers*/
+    /*Using the terminology of pointers*/
     /*printf("%p\n",arr);  //base loction of an array arr
     printf("%d\n",*arr);  //value of array arr[0]
     printf("%p\n",(arr+1));  // this the address of next index number i n arr array arr[1]
